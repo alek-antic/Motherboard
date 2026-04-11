@@ -46,7 +46,7 @@ Read silently the campaign frame’s details while everyone is taking a break
 # Lines & Veils
 1. Personal lines: sexual abuse, domestic abuse, bigotry
 2. Personal veils: Sex scenes, torture
-# break
+# Break
 Gather Lines and Veils Sheets, look over the character options specified by the campaign frame during this time
 # Character Creation
 1. Classes overview
