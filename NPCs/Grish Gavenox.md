@@ -1,0 +1,1 @@
+A corrupt union leader of the [[Trace Miners Union]] in [[The Copper Trove]].

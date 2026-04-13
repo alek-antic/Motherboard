@@ -1,18 +1,18 @@
 # Themes
-1. Technology vs Humanity
+1. Belief vs Skepticism
 2. Tradition vs Progress
 3. Identity as Legacy vs Identity as Community
 
-Identity as Legacy
+**Identity as Legacy**
 
-|     | Tradition | Progress |
-| --- | --------- | -------- |
-|     |           |          |
-|     |           |          |
+|                | **Tradition**            | **Progress**            |
+| -------------- | ------------------------ | ----------------------- |
+| **Belief**     | [[Clergy of the Chrome]] | [[The Northern Oracle]] |
+| **Skepticism** | [[]]                     | [[Trace Miners Union]]  |
 
-Identity as Community
+**Identity as Community**
 
-|     | Tradition | Progress |
-| --- | --------- | -------- |
-|     |           |          |
-|     |           |          |
+|                | **Tradition**                    | **Progress**                   |
+| -------------- | -------------------------------- | ------------------------------ |
+| **Belief**     | [[Tower Watch]]                  | [[The Sanctuary of the Faint]] |
+| **Skepticism** | [[Tony Express Trading Company]] | [[]]                           |
