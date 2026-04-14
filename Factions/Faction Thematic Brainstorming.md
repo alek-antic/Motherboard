@@ -8,11 +8,11 @@
 |                | **Tradition**            | **Progress**            |
 | -------------- | ------------------------ | ----------------------- |
 | **Belief**     | [[Clergy of the Chrome]] | [[The Northern Oracle]] |
-| **Skepticism** | [[]]                     | [[Trace Miners Union]]  |
+| **Skepticism** | [[Argent Duma]]          | [[Trace Miners Union]]  |
 
 **Identity as Community**
 
 |                | **Tradition**                    | **Progress**                   |
 | -------------- | -------------------------------- | ------------------------------ |
 | **Belief**     | [[Tower Watch]]                  | [[The Sanctuary of the Faint]] |
-| **Skepticism** | [[Tony Express Trading Company]] | [[]]                           |
+| **Skepticism** | [[Tony Express Trading Company]] | [[Conclave of the Rudiment]]   |
