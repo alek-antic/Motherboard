@@ -13,4 +13,3 @@ The current leader of [[The Sanctuary of the Faint]].
 ## Voice
 - Dusty
 - Wise elder
-- 
