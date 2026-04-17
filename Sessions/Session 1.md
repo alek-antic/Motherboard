@@ -11,8 +11,11 @@ Brainstorm
 Questions for each character:
 1. Why are you attending this summit?
 2. How difficult was your travel?
-3. 
+3. How long have you been in Calcarus?
+4. Have you been here before?
+5. What is your living space like?
 # Situation 2: The Summit
+
 # Situation 3: Interruption!
 Flying remnants crash through the serenity, through some of the remaining glass of the skyscraper, dropping off grounded remnants and attacking civilians.
 # Situation 4: Investigation
