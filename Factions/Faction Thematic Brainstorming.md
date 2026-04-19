@@ -15,4 +15,4 @@
 |                | **Tradition**                    | **Progress**                   |
 | -------------- | -------------------------------- | ------------------------------ |
 | **Belief**     | [[Tower Watch]]                  | [[The Sanctuary of the Faint]] |
-| **Skepticism** | [[Tony Express Trading Company]] | [[Conclave of the Rudiment]]   |
+| **Skepticism** | [[North Star Courier]] | [[Conclave of the Rudiment]]   |

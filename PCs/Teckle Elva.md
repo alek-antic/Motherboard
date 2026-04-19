@@ -7,6 +7,8 @@ He had a former companion named Uppy, which was a large hydraulic turtle used to
 
 He has an injured brother and father (unknown why).
 
+Relationship to remnants: wary due to the recent betrayal of Uppy, 
+
 ## Card List
 
 | Card Name         | Domain    | Level      |

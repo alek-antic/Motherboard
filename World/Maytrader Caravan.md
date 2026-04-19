@@ -1,0 +1,1 @@
+Sleds pulled by remnants and strandbeest mechanicals, but all the remnants ran off during the fury

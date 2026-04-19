@@ -6,6 +6,8 @@ From [[Copper Trove]], Xuria worked as a medic in the mines. They grew an attach
 
 Unbeknownst to her, she has an older sister [[Delta Foley]] who has been searching for Xuria after a tip from an anonymous informant. She has some sort of critical information to deliver to her.
 
+Relationship to remnants: Remnants were critical to operation in the mines, lots of sympathy toward them
+
 ## Card List
 
 | Card Name         | Domain    | Level      |
