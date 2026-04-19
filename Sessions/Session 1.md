@@ -7,6 +7,7 @@ Brainstorm
 
 # Situation 0: Exposition
 - [[Tenaya Valkas]] has sent out a summons to the upper regions of the [[Echo Vale]], calling for those interested in getting to the bottom of Remnant's Fury. 
+- It's Word 3, Bit 31 (`01111111`), the end of the warm cycle. 
 
 # Situation 1: Character Intros
 Questions for the players:
@@ -20,25 +21,27 @@ Questions for the players:
 # Situation 2: The Summit
 [[Tenaya Valkas]] stands atop a 6" platform in [[Calcarus|Calcarus's]] "town square", a large platform built inside the skyscraper (45' up from the ground), braced by the giant tree.
 
-She (uncharacteristically) nervously paces back and forth, checking her Ikonis for the time.
+She (uncharacteristically) nervously paces back and forth, checking her Ikonis for the time until she starts speaking.
 
 ### Tenaya's Talking Points
-1. Two Words ago, the Remnant's Fury ravaged our city.
+1. Two Words ago, our Remnants ravaged our city.
 2. The people of Calcarus need help
 	1. Assisting with maintenance now that most of the Remnants are gone
 	2. Getting to the root of the problem
-3. Suspicious of [[The Dead Jungle]]
-4. 
+3. Suspicious of the [[Beehive]]
+	1. The nearest location that people refuse to go near
+	2. Scouts say that drones come out of the Stacks are regular intervals. There must be remnant manufacturing down there.
+4. If anyone can bring several remnant cores to her, she will pass them off to some technomancers to look into what is affecting them.
 
 # Situation 3: Interruption!
 Flying remnants crash through the serenity, through some of the remaining glass of the skyscraper, dropping off grounded remnants and attacking civilians.
 
 ## Combat
 ### Monster Goals
-1. The Hulking Remnants rip and tear through the crowd 
+1. The Hulking Remnants rip and tear through the crowd
 2. The Mosquito Drones attempt to infect any remaining remnants
-3. The Condor picks off weak targets, then attempts to abduct Tenaya
-	1. If this happens, it can be seen flying south, still carrying her
+3. The Condor picks off weak targets, then attempts to abduct Tenaya (or someone else that the party attaches to)
+	- If this happens, it can be seen flying south, still carrying her
 
 ```statblock
 creature: Bear
@@ -66,8 +69,10 @@ motives_and_tactics: Stay mobile, strike decisively,
 - 3 Shards, 3 Metals, 2 Components per player
 ## Leads
 - Kohd Phrases #1 -> [[The Library]]
-- Lead to Beehive
 - [[Mac the Scrap Jack]] wants remnant cores intact, and is willing to open his services if provided with five.
+	- If they are headed to the [[Beehive]] like Tenaya mentioned, try to snag a remnant core for him.
+	- He gives the party one Hotspot to help them in their 
+- Following the Condor seems to lead to [[Thermal Oasis]]
 
 # Conclusion: Departure
 Ask the PCs what lead they are going to follow up on.
@@ -76,3 +81,6 @@ Ask the PCs what lead they are going to follow up on.
 ## NPCs
 ## Locations
 ## What To Prepare
+- What's going with the kidnapped NPC? Make a long-term countdown for some sort of project.
+- Point-crawl style distances between locations
+- Random encounter tables for overland travel

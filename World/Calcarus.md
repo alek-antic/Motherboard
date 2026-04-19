@@ -6,7 +6,9 @@ However, they are now a community struggling to make ends meet. A supermajority 
 # Layout
 The floors of the skyscraper have been mostly destroyed by the small forest growing upward through them. The citizens live in wooden buildings grafted to the outside of the tower. Communal spaces have been built on the interior of the building, supported by the large tree.
 
+The data well in the city is located at the top of the skyscraper, making it the tallest data well in the Vale.
+
 # NPCs
 1. [[Tenaya Valkas]] - The mayor of Calcarus
-2. [[Ramna Chowdhury]]
+2. [[Ramna Chowdhury]] - The situated member of [[The Sanctuary of the Faint]]
 3. [[Mac the Scrap Jack]]

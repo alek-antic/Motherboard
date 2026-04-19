@@ -1,5 +1,5 @@
 # Summary
-A union in [[The Copper Trove]], led by [[Grish Gavenox]].
+A union in [[Copper Trove]], led by [[Grish Gavenox]].
 
 ## Thematic Touchstones
 1. Identity as Legacy
