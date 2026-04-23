@@ -14,16 +14,17 @@
 		{"id":"3c1f45a941c27fb8","type":"file","file":"World/Argent.md","x":2080,"y":-840,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"ce078cca2fd811ed","fromNode":"bbfe742339f377af","fromSide":"top","toNode":"e2ba4cb7d49f2560","toSide":"bottom","toEnd":"none"},
-		{"id":"c3544097b0e983fc","fromNode":"bbfe742339f377af","fromSide":"bottom","toNode":"03a541aa50dc9ce5","toSide":"top","toEnd":"none"},
-		{"id":"c103957ec7287b45","fromNode":"bbfe742339f377af","fromSide":"bottom","toNode":"ae487de724f800ea","toSide":"top","toEnd":"none"},
-		{"id":"6320b00549222b84","fromNode":"bbfe742339f377af","fromSide":"right","toNode":"2fc35eb86c4489ab","toSide":"left","toEnd":"none"},
+		{"id":"ce078cca2fd811ed","fromNode":"bbfe742339f377af","fromSide":"top","toNode":"e2ba4cb7d49f2560","toSide":"bottom","toEnd":"none","label":"1 Bit"},
+		{"id":"c3544097b0e983fc","fromNode":"bbfe742339f377af","fromSide":"bottom","toNode":"03a541aa50dc9ce5","toSide":"top","toEnd":"none","label":"1 Bit"},
+		{"id":"c103957ec7287b45","fromNode":"bbfe742339f377af","fromSide":"bottom","toNode":"ae487de724f800ea","toSide":"top","toEnd":"none","label":"2 Bits"},
+		{"id":"6320b00549222b84","fromNode":"bbfe742339f377af","fromSide":"right","toNode":"2fc35eb86c4489ab","toSide":"left","toEnd":"none","label":"1 Bit"},
 		{"id":"f5dc1566c0be4de0","fromNode":"3c1f45a941c27fb8","fromSide":"left","toNode":"2c89b9ea5ae8e33c","toSide":"bottom","toEnd":"none"},
 		{"id":"50bfeb212951c73f","fromNode":"2c89b9ea5ae8e33c","fromSide":"right","toNode":"0535a27eaafc2c9e","toSide":"left","toEnd":"none"},
 		{"id":"db217da319ecc734","fromNode":"2c89b9ea5ae8e33c","fromSide":"top","toNode":"1a189b54f4e55b57","toSide":"bottom","toEnd":"none"},
 		{"id":"a54c53369bfcba39","fromNode":"3c1f45a941c27fb8","fromSide":"top","toNode":"0535a27eaafc2c9e","toSide":"bottom","toEnd":"none"},
-		{"id":"5d0f8197a83d9c4f","fromNode":"ae487de724f800ea","fromSide":"right","toNode":"273d1f909dbcce91","toSide":"left","toEnd":"none"},
-		{"id":"d6b73b92b215d0ee","fromNode":"03a541aa50dc9ce5","fromSide":"bottom","toNode":"a4cec727b7572cb6","toSide":"top","toEnd":"none"},
-		{"id":"a0adb766ee6f7ae6","fromNode":"ae487de724f800ea","fromSide":"bottom","toNode":"a4cec727b7572cb6","toSide":"top","toEnd":"none"}
+		{"id":"5d0f8197a83d9c4f","fromNode":"ae487de724f800ea","fromSide":"right","toNode":"273d1f909dbcce91","toSide":"left","toEnd":"none","label":"5 Bits"},
+		{"id":"d6b73b92b215d0ee","fromNode":"03a541aa50dc9ce5","fromSide":"bottom","toNode":"a4cec727b7572cb6","toSide":"top","toEnd":"none","label":"1 Bit"},
+		{"id":"a0adb766ee6f7ae6","fromNode":"ae487de724f800ea","fromSide":"bottom","toNode":"a4cec727b7572cb6","toSide":"top","toEnd":"none","label":"1 Bit"},
+		{"id":"e05f87dc67ccd2af","fromNode":"ae487de724f800ea","fromSide":"top","toNode":"130550c8b30a1e0b","toSide":"bottom","toEnd":"none","label":"2 Bits"}
 	]
 }
