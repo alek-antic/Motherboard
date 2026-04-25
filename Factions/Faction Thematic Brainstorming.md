@@ -15,4 +15,4 @@
 |                | **Tradition**                    | **Progress**                   |
 | -------------- | -------------------------------- | ------------------------------ |
 | **Belief**     | [[Tower Watch]]                  | [[The Sanctuary of the Faint]] |
-| **Skepticism** | [[North Star Courier]] | [[Conclave of the Rudiment]]   |
+| **Skepticism** | [[North Star Postal Courier]] | [[Conclave of the Rudiment]]   |

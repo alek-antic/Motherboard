@@ -19,7 +19,7 @@ Questions for the players:
 2. How difficult was your travel?
 	1. Lacari: Hard and fast travel, run a little ragged.
 3. Did you travel with anyone who would also be answering this summons?
-	1. Lacari: A few from Maytrader Caravan, none from [[North Star Courier]]
+	1. Lacari: A few from Maytrader Caravan, none from [[North Star Postal Courier]]
 	2. Teckle: traveled alone via data line
 	3. Xuria: Lots of people from the [[Copper Trove]], Father [[Astro Foley]]
 4. How long have you been in Calcarus?

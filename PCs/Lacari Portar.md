@@ -6,7 +6,7 @@ Originally from [[Copper Trove]], they eventually left and made their way to the
 
 In leaving town, they were saddest to say goodbye to their sister [[Shiza Portar|Shiza]], who has a lot of debt to the [[Brokers]]. 
 
-After becoming a member of the Maytrader Caravan, they joined with the [[North Star Courier]]
+After becoming a member of the Maytrader Caravan, they joined with the [[North Star Postal Courier]]
 
 Relationship with remnants: understand the utility of using tame remnants, but wary of their presence during package delivery.
 
