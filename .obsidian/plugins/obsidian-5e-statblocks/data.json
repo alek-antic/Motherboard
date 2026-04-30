@@ -5239,6 +5239,18 @@
               "conditioned": true,
               "headingProp": false,
               "callback": "return property.text;"
+            },
+            {
+              "type": "traits",
+              "id": "e9c8e859c8fa",
+              "properties": [
+                "sparks"
+              ],
+              "fallback": "-",
+              "heading": "Sparks",
+              "conditioned": true,
+              "callback": "return property.text;",
+              "hasRule": false
             }
           ],
           "heading": "",
@@ -5424,7 +5436,7 @@
   "useDice": false,
   "renderDice": false,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,

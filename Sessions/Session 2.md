@@ -16,19 +16,30 @@ Brainstorm
 It takes 1 Nibble (4 Bits) to get to the [[Beehive]], then 2 Bits to get to the [[Thermal Oasis]], where Tenaya is being held.
 Ask about preparations before travel, route they will take, etc.
 
-# Situation 2: 
-## Overland Travel
-Travel procedure:
-1. Mark current watch
-2. Roll for encounter (1d12)
-	- 1: Random Encounter
-	- 2: Signs of a nearby random encounter
-	- 3-4: Omen of a keystone quest
-	- 5-12: No encounter
-3. Declare watch actions
-4. Resolve travel
-5. Resolve encounters
-6. Resolve watch actions
+# Situation 2: Overland travel -- improvise encounters?
+```statblock
+layout: Daggerheart Environment
+name: The Wastes of the Vale
+tier: 1
+type: Exploration
+difficulty: 12
+potential_adversaries: Remnants, sellswords
+description: The wastes of the ancients
+feature:
+  - name: Overgrown Technology - *Passive*
+    desc: There once was something valuable to ancient society here, but it has been completely covered by vegetation. _What is it? What do you think it's for?_
+  - name: Network Disconnected - *Action*
+    desc: Spend a fear when the PCs are about to take a rest. Something has gone wrong with the network connection in this area that disrupts their ability to rest. It could be combat, broken data lines, or malfunctioning personal equipment.
+  - name: Ants at a Picnic - *Action*
+    desc: A group of small remnants are carrying something in a line as if they were ants. _What are they carrying, and where are they going?_
+  - name: Something Happened Here 
+    desc: The remains of an altercation have been left behind, including some scrap (low value shards and metals) and consumable items (reflavored as tech). Roll 2d12 and take the higher result on the consumables table. 
+sparks:
+  - name: Overgrown train tracks.
+  - name: Ravine with pipes or cables leading underground.
+  - name: Overgrown train tracks. Ravine with pipes or cables leading underground. 
+  - name: A large remnant, long deceased, carrying or holding up a large stone.
+```
 
 | #   | Encounter                         |
 | --- | --------------------------------- |
@@ -38,7 +49,7 @@ Travel procedure:
 | 4   | Remnant Patrol                    |
 | 5   | Data Breach                       |
 | 6   | Mysterious Item                   |
-| 7   |                                   |
+| 7   | Network in disrepair              |
 | 8   |                                   |
 | 9   |                                   |
 | 10  |                                   |
