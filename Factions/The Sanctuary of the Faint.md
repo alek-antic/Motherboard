@@ -13,3 +13,6 @@ A secretive group of those who do not believe in the voice of the Motherboard, b
 # Potential Plot Hooks/Quests
 1. Missing member in random location
 2. Member has been overtaken by the voices of the gods and is catatonic
+
+### Rumors
+1. Attributed to a large bombing

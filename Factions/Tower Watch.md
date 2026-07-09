@@ -10,8 +10,9 @@ The supplies needed to maintain these towers are dwindling at a rapid pace since
 
 # Prominent Members
 1. [[Rasha Kolovic]] - The current leader of the watch
-2. [[Viro Almscale]] (deceased)
-3. [[Teckle Elva]]
+2. [[Viro Almscale]] (deceased) - Teckle’s mentor and former lead of the Copper Trove division
+3. [[Rasika Thranu]] - New lead of the Copper Trove division
+4. [[Teckle Elva]]
 
 # Potential Plot Hooks/Quests
 1. Data well is under active assault from Remnants (or people?)

@@ -34,5 +34,6 @@ Courier service for the [[Maytrader Caravan]].
 	1. He/him Human
 11. [[Benicio]] - Courier (8 Year)
 	1. He/him Halfling
+	2. Religious
 12. [[Alma]] - Courier (5 Year)
 	1. She/her Faun

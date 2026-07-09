@@ -111,6 +111,7 @@ Fear: 3
 - [[Clef]] - North Star Courier
 - Jacob Jingleheimerschmidt - Guy who went to Beehive and got his face all fucked up
 - [[Doc Boss]] - Boss of the North Star Courier
+- [[Astro Foley]] - Xuria’s Father
 
 ## What To Prepare
 - What's going with Tenaya? Make a long-term countdown for some sort of project.

@@ -1,0 +1,2 @@
+## Symbol
+“Motherboard” in Kohd

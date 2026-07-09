@@ -5,8 +5,10 @@ A union in [[Copper Trove]], led by [[Grish Gavenox]].
 1. Identity as Legacy
 2. Progress
 3. Skepticism
-
 # Prominent Members
 1. [[Grish Gavenox]]
 
 # Potential Plot Hooks/Quests
+
+# Random Notes
+- Great dental insurance

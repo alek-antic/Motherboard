@@ -16,7 +16,7 @@ Brainstorm
 It takes 1 Nibble (4 Bits) to get to the [[Beehive]], then 2 Bits to get to the [[Thermal Oasis]], where Tenaya is being held.
 Ask about preparations before travel, route they will take, etc.
 
-# Situation 2: Overland travel -- improvise encounters?
+# Situation 2: Overland travel -- improvise encounters
 ```statblock
 layout: Daggerheart Environment
 name: The Wastes of the Vale
@@ -39,7 +39,12 @@ sparks:
   - name: Ravine with pipes or cables leading underground.
   - name: Overgrown train tracks. Ravine with pipes or cables leading underground. 
   - name: A large remnant, long deceased, carrying or holding up a large stone.
+  - name: A remnant “out of place” (not related to the local ecology)
 ```
+
+Overgrown Technology: Quick Sip Billboard - Whirling “3d” holographic fan screen, broken and repaired by Teckle. Decided there was an underground power source.
+
+Pilgrimages to the Quick Sip
 
 | #   | Encounter                         |
 | --- | --------------------------------- |
@@ -59,20 +64,20 @@ sparks:
 ## Option 1 - Pure Overland to Beehive -> The Thermal Oasis
 ## Option 2 - Overland -> Copper Trove -> Overland
 - If visiting "home", follow up on Jon Canary Deer's death.
-- Follow up on the [[Trace Miners Union]]
+- Follow up on the [[Trace Miners Guild]]
 
 # AAR
 ## Summary
-Fear: 
+Fear: 4
 
 ## Time Advancement
 | 0111 1111 | 0111 1111 | 0111 1111 |
 | --------- | --------- | --------- |
-| X         | X         |           |
+| X         | X         | X         |
 
 | 1000 0000 | 1000 0000 | 1000 0000 |
 | --------- | --------- | --------- |
-|           |           |           |
+| X         |           |           |
 
 | 1000 0001 | 1000 0001 | 1000 0001 |
 | --------- | --------- | --------- |
@@ -81,6 +86,8 @@ Fear:
 | 1000 0011 | 1000 0011 | 1000 0011 |
 | --------- | --------- | --------- |
 |           |           |           |
+
+
 ## NPCs
 
 ## What To Prepare
