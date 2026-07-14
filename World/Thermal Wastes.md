@@ -7,6 +7,7 @@ Annual sandcastle contest
 The dump of the Copper Trove, lots of random scraps, The Copper Trove’s homeless population is forced out there. 
 
 ### Rumors
-1. A great remnant burrows and stalks the sands
+1. A great remnant burrows and stalks the sands (True)
+	1. Former tunnel drill, enhanced with the ability to steer itself.
 2. Once per year, lights can be seen coming from the sand for 24 hours
 3. Bioluminescence out in the sea, possibly connected to #2

@@ -49,7 +49,7 @@ Company: Success w/ Hope
 	- Countdown of 4 -> 2 to call the “Pinkertons”
 
 # AAR
-Fear: 14 - 3 for countdowns
+Fear: 14 - 10 for countdowns
 
 ## Time Advancement
 | 0111 1111 | 0111 1111 | 0111 1111 |
@@ -75,7 +75,10 @@ Fear: 14 - 3 for countdowns
 
 ## What to Prep
 1. Countdown for the Union’s suspicion of Fiora & Xuria
+	1. 8
 2. Countdown for Tenaya’s conversion
-3. Countdown for Copper Trove’s inevitable explosion
+	1. 12 -> 6
+3. Countdown for Copper Trove’s inevitable explosion (Lacari's notes)
+	1. 12 -> 8
 
 Add more quantum/scraps
