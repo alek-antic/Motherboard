@@ -8,9 +8,9 @@ Current: 6
 Started: 8
 Current: 6
 
-### The Trove Mining Company Hires Mercenaries to Bust the Trace Miners Guild
-Started: 6
-Current: 4
+### ~~The Trove Mining Company Hires Mercenaries to Bust the Trace Miners Guild~~
+Started: 4
+Current: 0
 
 ### The Trace Miners Guild Gains Suspicion of Xuria and Fiora
 Started: 6

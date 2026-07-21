@@ -17,3 +17,4 @@ Relationship to remnants: Remnants were critical to operation in the mines, lots
 | Warden of Renewal | Druid     | Foundation |
 | Nature's Tongue   | Sage      | 1          |
 | Rune Ward         | Arcana    | 1          |
+| Floating Eye      | Arcana    | 2          |

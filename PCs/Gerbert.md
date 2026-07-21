@@ -16,3 +16,4 @@ Zing is a remnant that looks like a lynx.
 | Beastbound      | Ranger    | Foundation |
 | I See It Coming | Bone      | 1          |
 | Gifted Tracker  | Sage      | 1          |
+| Conjure Swarm   | Sage      | 2          |

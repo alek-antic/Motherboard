@@ -19,3 +19,4 @@ Relationship with remnants: understand the utility of using tame remnants, but w
 | Nightwalker      | Rogue     | Foundation |
 | Uncanny Disguise | Midnight  | 1          |
 | Pick and Pull    | Midnight  | 1          |
+| Deft Deceiver    | Grace     | 1          |

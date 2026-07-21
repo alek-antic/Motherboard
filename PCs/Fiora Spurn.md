@@ -13,3 +13,4 @@ Originally from [[Calcarus]], Fiora was assisted by an otherworldly power in str
 | Divine Weilder   | Seraph    | Foundation |
 | Bolt Beacon      | Splendor  | 1          |
 | I Am Your Shield | Valor     | 1          |
+| Final words      | Splendor  | 2          |

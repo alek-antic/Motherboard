@@ -19,3 +19,5 @@ Relationship to remnants: wary due to the recent betrayal of Uppy,
 | Call of the Brave | Warrior   | Foundation |
 | Get Back Up       | Blade     | 1          |
 | Whirlwind         | Blade     | 1          |
+| Not Good Enough   | Blade     | 1          |
+| A Soldier’s Bond  | Blade     | 2          |
