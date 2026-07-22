@@ -3,7 +3,7 @@ Brainstorm:
 
 # Situation 0: Staying around The Trove
 The Bucket’s Bottom, local cafe
-[[Ream Buttonwillow]] - 
+[[Ream Buttonwillow]] - he/him Halfling barista
 
 Lacari makes a bunch of tracks to and from the gates in the heavy machinery area, and has put a ton of silt in 3 of the 5 boring machines.
 
@@ -55,7 +55,7 @@ Paint the Scene
 
 
 # AAR
-Fear:
+Fear: 6
 
 ## Time Advancement
 
@@ -72,11 +72,14 @@ Fear:
 |           |           |           |
 
 ## NPCs
+1. [[Ream Buttonwillow]] - Barista at The Bucket's Bottom
+2. [[Savi Heatherwood]] - Guardian of the Waste's shard of the [[Faint Divinities]]
 
 ## Locations
+1. The Bucket's Bottom - Cafe in the Copper Trove
 
 ## Things to Prep
-1. “Motherboard” Kohd phrase
+1. Kohd phrase #4
 2. Kohd Phrase #3
 3. Metal Detector Recipe
 4. Does Shiza actually leave?

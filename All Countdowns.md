@@ -18,4 +18,4 @@ Current: 5
 
 ### The Copper Trove Becomes Unlivable due to Union and Company War
 Started: 12
-Current: 8
+Current: 6
